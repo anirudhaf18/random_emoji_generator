@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: rgb(240, 238, 238);
-    background: url("b1.png");
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
     background-repeat: no-repeat !important;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
